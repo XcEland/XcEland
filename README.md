@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Predicting Probability of Default System](https://github.com/XcEland/Predicting-Probability-of-Default)
 
-- 🌱 I’m currently learning **Django, Java Spring Boot**
+- 🌱 I’m currently learning **Machine Learning with Google Cloud**
 
 - 👯 I’m looking to collaborate on [find My Key System](https://github.com/XcEland/FinderSystem)
 
