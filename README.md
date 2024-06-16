@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mcdonald Mpofu, a digital craftsman.</h1>
-<h3 align="center">A passionate software systems from Zimbabwe</h3>
+<h3 align="center">A passionate software systems developer from Zimbabwe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xceland&label=Profile%20views&color=0e75b6&style=flat" alt="xceland" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, Java Spring Boot**
 
-- 👯 I’m looking to collaborate on [find My Key](https://github.com/XcEland/FinderSystem)
+- 👯 I’m looking to collaborate on [find My Key System](https://github.com/XcEland/FinderSystem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
