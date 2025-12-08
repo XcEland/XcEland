@@ -6,7 +6,3 @@
 - 🔭 I’m currently working on [Farm Copilot]
 
 - 🌱 I’m currently learning **Machine Learning with Google Cloud**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xceland&show_icons=true&locale=en&layout=compact" alt="xceland" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xceland&show_icons=true&locale=en" alt="xceland" /></p>
