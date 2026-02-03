@@ -5,4 +5,4 @@
 
 - 🔭 Curiosity
 
-- 🌱 Growth
+- 🌱 Grit
