@@ -3,6 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xceland&label=Profile%20views&color=0e75b6&style=flat" alt="xceland" /> </p>
 
-- 🔭 I’m currently working on [Farm Copilot]
+- 🔭 Curiosity
 
-- 🌱 I’m currently learning **Machine Learning with Google Cloud**
+- 🌱 Growth
